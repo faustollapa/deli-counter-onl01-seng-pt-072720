@@ -41,7 +41,8 @@ function currentLine(katzDeli) {
 //     line.push(` `+[i+1]+`. `  + katzDeli[i])
 //   }
 //   return(`The line is currently:` + line);
-// 
+// }
+
 
   
   
